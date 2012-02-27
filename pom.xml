@@ -1,7 +1,5 @@
 <!--
-@CreatedBy Bonec
-@Objective This is pom.xml use for spring-cxf-ehcahe integration
-@CreatedDate 02/27/2012
+@CreatedBy Euler F. David
 -->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
