@@ -10,12 +10,17 @@ import com.googlecode.ehcache.annotations.TriggersRemove;
 import com.googlecode.ehcache.annotations.When;
 import com.ws.econcierge.view.Person;
 
+/**
+ * Service Layer
+ *  With EHCache Implementation
+ * 
+ * @author Bonec
+ */
 @Service
 public class ServicePerson implements PersonService
 {
 	private Set<Person> persons = new HashSet<Person>();
 
-	@Override
 	@Cacheable(cacheName = Cache.PERSON)
 	public Person getPerson(String id)
 	{

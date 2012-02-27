@@ -12,7 +12,6 @@ import org.apache.ws.security.WSPasswordCallback;
 public class PasswordHandler implements CallbackHandler
 {
 
-	@Override
 	public void handle(Callback[] callbacks) throws IOException, UnsupportedCallbackException
 	{
 		WSPasswordCallback pc = (WSPasswordCallback) callbacks[0];

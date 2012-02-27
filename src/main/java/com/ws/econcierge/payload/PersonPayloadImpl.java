@@ -12,6 +12,11 @@ import org.springframework.stereotype.Service;
 import com.ws.econcierge.service.PersonService;
 import com.ws.econcierge.view.Person;
 
+/**
+ * Sample Web Service Interface Payload
+ * @author Bonec
+ *
+ */
 @Service("personPayload")
 @WebService(endpointInterface = "com.ws.econcierge.payload.PersonPayload", serviceName = "PersonPayload", portName = "PersonPayloadPort")
 public class PersonPayloadImpl implements PersonPayload

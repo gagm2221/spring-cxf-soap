@@ -4,6 +4,11 @@ import java.util.Set;
 
 import com.ws.econcierge.view.Person;
 
+/**
+ * Sample Service Layer INterface
+ * @author Bonec
+ *
+ */
 public interface PersonService
 {
 	interface Cache 

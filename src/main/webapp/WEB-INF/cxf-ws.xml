@@ -1,4 +1,9 @@
-<beans 
+<!--
+@CreatedBy Bonec
+@Objective Spring configuration for cxf-web service
+                    code first implementation
+@CreatedDate 02/27/2012
+--><beans 
 	xmlns="http://www.springframework.org/schema/beans"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 	xmlns:p="http://www.springframework.org/schema/p"

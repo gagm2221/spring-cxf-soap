@@ -8,6 +8,11 @@ import javax.jws.WebService;
 
 import com.ws.econcierge.view.Person;
 
+/**
+ * Web Service Interface Payload
+ * @author Bonec
+ *
+ */
 @WebService
 public interface PersonPayload
 {
