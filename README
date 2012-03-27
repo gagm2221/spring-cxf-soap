@@ -1,18 +1,18 @@
-###Spring CXF-XFire Soap Server Implementation
+Spring CXF-XFire Soap Server Implementation
 
-**Github Location :**
+Github Location :
 GIT Read-Only : git://github.com/gagm2221/spring-cxf-soap.git
 HTTP : https://github.com/gagm2221/spring-cxf-soap.git
 
-> This is a template for webservice that uses a spring,cxf-xfire,spring-ehcahce for caching.
-> It can run using maven-jetty plugin, maven-tomcat plugin. It depends on what web server will be want to use.
-> 
-> This is just a very basic implementation, no architecture is done.
-> You can use maven features to make this project more manageable.
-> 
-> Please provide comments and suggestions.
+This is a template for webservice that uses a spring,cxf-xfire,spring-ehcahce for caching.
+It can run using maven-jetty plugin, maven-tomcat plugin. It depends on what web server will be want to use.
 
-`Euler F. David 
+This is just a very basic implementation, no architecture is done.
+You can use maven features to make this project more manageable.
+
+Please provide comments and suggestions.
+
+Euler F. David 
 City of San Fernando Pampanga
 euler2127@yahoo.com
-Under GPL.`
+Under GPL.
